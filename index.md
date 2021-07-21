@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP M.Kumaraswamy College of Engineering
-tags: example-tag
+tags: example-tag #MKCE
 region: Asia
 meetup-group:
 
